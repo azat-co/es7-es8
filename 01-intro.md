@@ -60,4 +60,14 @@ The finished 2017 (ES8) proposals are:
 
 ---
 
+# Slides and Other Materials
+
+Slides: <https://github.com/azat-co/es7-es8>
+
+Course: <https://node.university/p/es7-es8>
+
+Post: <https://node.university/blog/498412/es7-es8>
+
+---
+
 # Let's go! 🚀

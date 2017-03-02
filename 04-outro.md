@@ -17,8 +17,10 @@ Azat Mardan @azat_co
 
 Use ES7 and ES8 with older browsers:
 
-* Babel
-* Tracuer TK
+* [Babel](https://babeljs.io)
+* [Traceur](https://github.com/google/traceur-compiler)
+* [TypeScript](https://www.typescriptlang.org)
+
 
 ---
 
