@@ -43,12 +43,11 @@ Use ES7 and ES8 with older browsers:
 
 # Keep an eye on TC39 and proposals.
 
----
 
-* TC39 process: <https://tc39.github.io/process-document>
-* All proposals: <https://github.com/tc39/proposals/blob/master/README.md>
-* Finished proposals: <https://github.com/tc39/proposals/blob/master/finished-proposals.md>
-* Mozilla Developer Network (examples, what browser supports what feature in what version): <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+* [TC39 process](https://tc39.github.io/process-document)
+* [All proposals](https://github.com/tc39/proposals/blob/master/README.md)
+* [Finished proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
+* [Mozilla Developer Network (examples, what browser supports what feature in what version)] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
@@ -56,7 +55,7 @@ Use ES7 and ES8 with older browsers:
 
 ---
 
-For a refresher on Promises, arrow functions, let/const and other ES6/ES2015 features, enroll into Node.University's [ES6/ES2015 course](https://node.university/p/es6).
+### For a refresher on Promises, arrow functions, let/const and other ES6/ES2015 features, enroll into Node.University's [ES6/ES2015 course](https://node.university/p/es6).
 
 ---
 
