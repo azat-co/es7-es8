@@ -1,0 +1,30 @@
+{
+  "name": "setup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && ./node_modules/.bin/static",
+    "build": "./node_modules/.bin/webpack",
+    "build-watch": "./node_modules/.bin/webpack -w"
+  },
+  "keywords": [],
+  "author": "Azat Mardan (http://azat.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "*",
+    "babel-core": "6.26.0",
+    "babel-loader": "6.4.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
+    "webpack": "1.15.0"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      "es2015"
+    ]
+  }
+}
